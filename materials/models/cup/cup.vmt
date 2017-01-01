@@ -1,5 +1,7 @@
 "VertexlitGeneric"
 {
+	"$blendtintbybasealpha" "1"
+	"$blendtintcoloroverbase" "0"
 	"$basetexture" "models/cup/cup"
 	"$bumpmap" "models/cup/cup_normal"
 	"$model" 1
