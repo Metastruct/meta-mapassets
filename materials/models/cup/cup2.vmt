@@ -1,10 +1,9 @@
 "VertexlitGeneric"
 {
-	"$basetexture" "models/cup/cup_base"
+	"$basetexture" "models/cup/cup2"
 	"$bumpmap" "models/cup/cup_normal"
 	"$model" 1
  	"$phong" 1
 	"$phongexponent" 6	
 	"$halflambert" 1
-
 }
