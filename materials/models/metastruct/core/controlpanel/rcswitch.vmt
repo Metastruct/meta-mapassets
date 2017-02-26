@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/metastruct/core/controlpanel/russianswitch_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/russianswitch_Normal_bakedspec"
+
+
+	 $envmap "env_cubemap"
+	 $normalmapalphaenvmapmask "1"
+}
