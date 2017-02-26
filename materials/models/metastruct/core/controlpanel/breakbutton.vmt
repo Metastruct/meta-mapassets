@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/metastruct/core/controlpanel/breakerbutton_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/breakerbutton_Normal_bakedspec"
+
+
+	 $envmap "env_cubemap"
+	 $normalmapalphaenvmapmask "1"
+}
