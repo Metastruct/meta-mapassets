@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/metastruct/core/controlpanel/rotoswitch_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/rotoswitch_Normal"
+}

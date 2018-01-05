@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/metastruct/core/controlpanel/metalpanel_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/metalpanel_Normal"
+}

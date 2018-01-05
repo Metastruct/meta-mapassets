@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/metastruct/core/controlpanel/breaker_3p_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/breaker_3p_Normal"
+}
