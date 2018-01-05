@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/metastruct/core/controlpanel/lever_small_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/lever_small_Normal"
+}

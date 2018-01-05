@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/metastruct/core/controlpanel/wirebox_medium_Diffuse"
+	$bumpmap "models/metastruct/core/controlpanel/wirebox_medium_Normal"
+}
