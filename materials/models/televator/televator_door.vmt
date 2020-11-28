@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	$basetexture "models/televator/televator_door.vtf"
-	// $envmap "env_cubemap"
-	// $envmaptint "[0.2 0.2 0.2]"
-	$surfaceprop "metal"
-	$selfillum "0"
-	$model 1
-}
