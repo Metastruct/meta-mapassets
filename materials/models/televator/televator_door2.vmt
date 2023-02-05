@@ -4,6 +4,7 @@
 	$envmapmask "models/televator/televator_door.vtf"
 	$envmap "engine/defaultcubemap"
 	$envmaptint "[0.1 0.1 0.1]"
+	$nodecal 1
 	$surfaceprop "metal"
 	$model 1
 }
